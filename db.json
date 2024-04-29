@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin"
+    }
+  ],
+  "credentials": [
+    {
+      "userId": 1,
+      "password": "",
+      "email": "admin@mail.com"
+    }
+  ],
+  "roles": [
+    {
+      "userId": 1,
+      "role": "admin"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "News #1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque. Donec scelerisque dui a sapien tincidunt venenatis. Donec mattis felis quis dui gravida ornare. Suspendisse potenti. Donec ac nunc ut nisl vestibulum sagittis a in felis. Integer magna ipsum, tempor sed eros et, auctor tempor sapien. Maecenas et molestie mi, a tempus magna. In vel velit a lorem molestie placerat nec rhoncus tortor. Ut fermentum hendrerit risus eget mattis. Sed mollis mauris id elit commodo, ut laoreet est accumsan. Ut venenatis mollis semper. Aenean elementum mi at convallis imperdiet. Morbi lobortis tortor ante, sed vulputate felis pellentesque quis. Duis tempus tincidunt erat vitae mollis. Proin vitae lacus bibendum nisl maximus congue eu id lacus. Nulla mollis ullamcorper quam a vestibulum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque.",
+      "date": "2024-04-29T13:18:00",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "News #2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque. Donec scelerisque dui a sapien tincidunt venenatis. Donec mattis felis quis dui gravida ornare. Suspendisse potenti. Donec ac nunc ut nisl vestibulum sagittis a in felis. Integer magna ipsum, tempor sed eros et, auctor tempor sapien. Maecenas et molestie mi, a tempus magna. In vel velit a lorem molestie placerat nec rhoncus tortor. Ut fermentum hendrerit risus eget mattis. Sed mollis mauris id elit commodo, ut laoreet est accumsan. Ut venenatis mollis semper. Aenean elementum mi at convallis imperdiet. Morbi lobortis tortor ante, sed vulputate felis pellentesque quis. Duis tempus tincidunt erat vitae mollis. Proin vitae lacus bibendum nisl maximus congue eu id lacus. Nulla mollis ullamcorper quam a vestibulum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque.",
+      "date": "26-04-2024T13:18:00",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "News #3",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque. Donec scelerisque dui a sapien tincidunt venenatis. Donec mattis felis quis dui gravida ornare. Suspendisse potenti. Donec ac nunc ut nisl vestibulum sagittis a in felis. Integer magna ipsum, tempor sed eros et, auctor tempor sapien. Maecenas et molestie mi, a tempus magna. In vel velit a lorem molestie placerat nec rhoncus tortor. Ut fermentum hendrerit risus eget mattis. Sed mollis mauris id elit commodo, ut laoreet est accumsan. Ut venenatis mollis semper. Aenean elementum mi at convallis imperdiet. Morbi lobortis tortor ante, sed vulputate felis pellentesque quis. Duis tempus tincidunt erat vitae mollis. Proin vitae lacus bibendum nisl maximus congue eu id lacus. Nulla mollis ullamcorper quam a vestibulum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque.",
+      "date": "26-04-2024T13:18:00",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "title": "News #4",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque. Donec scelerisque dui a sapien tincidunt venenatis. Donec mattis felis quis dui gravida ornare. Suspendisse potenti. Donec ac nunc ut nisl vestibulum sagittis a in felis. Integer magna ipsum, tempor sed eros et, auctor tempor sapien. Maecenas et molestie mi, a tempus magna. In vel velit a lorem molestie placerat nec rhoncus tortor. Ut fermentum hendrerit risus eget mattis. Sed mollis mauris id elit commodo, ut laoreet est accumsan. Ut venenatis mollis semper. Aenean elementum mi at convallis imperdiet. Morbi lobortis tortor ante, sed vulputate felis pellentesque quis. Duis tempus tincidunt erat vitae mollis. Proin vitae lacus bibendum nisl maximus congue eu id lacus. Nulla mollis ullamcorper quam a vestibulum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque.",
+      "date": "26-04-2024T13:18:00",
+      "userId": 1
+    },
+    {
+      "id": 5,
+      "title": "News #5",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque. Donec scelerisque dui a sapien tincidunt venenatis. Donec mattis felis quis dui gravida ornare. Suspendisse potenti. Donec ac nunc ut nisl vestibulum sagittis a in felis. Integer magna ipsum, tempor sed eros et, auctor tempor sapien. Maecenas et molestie mi, a tempus magna. In vel velit a lorem molestie placerat nec rhoncus tortor. Ut fermentum hendrerit risus eget mattis. Sed mollis mauris id elit commodo, ut laoreet est accumsan. Ut venenatis mollis semper. Aenean elementum mi at convallis imperdiet. Morbi lobortis tortor ante, sed vulputate felis pellentesque quis. Duis tempus tincidunt erat vitae mollis. Proin vitae lacus bibendum nisl maximus congue eu id lacus. Nulla mollis ullamcorper quam a vestibulum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sodales turpis sit amet pellentesque.",
+      "date": "26-04-2024T13:18:00",
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "newsId": 1,
+      "text": "Comment text",
+      "date": "2024-04-29T13:18:00"
+    }
+  ]
+}
